@@ -14,3 +14,4 @@ Javascript Dasar:
   - https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w
   - https://www.petanikode.com/tutorial/javascript/
   - https://www.w3schools.com/js/default.asp
+  - https://www.youtube.com/watch?v=SDROba_M42g&list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg
