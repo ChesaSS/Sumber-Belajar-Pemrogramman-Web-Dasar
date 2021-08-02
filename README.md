@@ -15,3 +15,9 @@ Javascript Dasar:
   - https://www.petanikode.com/tutorial/javascript/
   - https://www.w3schools.com/js/default.asp
   - https://www.youtube.com/watch?v=SDROba_M42g&list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg
+
+Code Editor Untuk Ngoding:
+  - Notepad++           : https://notepad-plus-plus.org/downloads/
+  - Sublime Text 4      : https://www.sublimetext.com/download
+  - Atom                : https://atom.io/
+  - Visual Studio Code  : https://code.visualstudio.com/Download
